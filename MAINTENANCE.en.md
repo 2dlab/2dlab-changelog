@@ -1,1 +1,0 @@
-Maintenance will take place on March 19 from 9:00 to 11:00 (Moscow time). Record processing will not be available.
