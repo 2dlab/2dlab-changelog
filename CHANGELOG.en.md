@@ -1,5 +1,12 @@
 Teamlogs – transcription and analysis of audio and video files
 
+### **Teamlogs 1.01,** 22.04.2022
+
+* Added deletion of records <br>
+  Now you can delete your transcripts from the service. The delete button is located in the list of entries and is active when the cursor hovers over the desired entry. The deletion function is only available in the desktop version of the service. <br>
+  Deletion is possible for records with the status "Completed" and "Rejected". Records "In processing" cannot be deleted. <br>
+  Important: after deleting the record, it is impossible to restore it
+
 ### **Teamlogs 1.0,** 14.04.2022
 
 * added English language support,
