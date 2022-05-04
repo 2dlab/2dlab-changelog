@@ -1,5 +1,10 @@
 Teamlogs – transcription and analysis of audio and video files
 
+### **Teamlogs 1.11,** 05.05.2022
+* added widget for automatic transcript summary,
+* slightly updated transcript interface,
+* added the ability to cancel an order in case of an error when switching from the file download to the payment page
+
 ### **Teamlogs 1.01,** 22.04.2022
 
 * Added deletion of records <br>
