@@ -1,6 +1,18 @@
 Teamlogs – transcription and analysis of audio and video files
 
+### **Teamlogs 1.21 – Transcript 2.0,** 25.05.2022
+
+_The transcript editing module has been completely redesigned:_
+* transcript editing has become faster and more convenient,
+* it is now possible to add, delete and share speaker cues,
+* now on Enter you can repel a new paragraph inside the replica,
+* copying from the browser works fine,
+* added hotkeys "play audio", "stop" and others, a list of hotkeys at the top of the transcript widget,
+* added the status of saving the transcript,
+* temporarily removed emotions from the text
+
 ### **Teamlogs 1.11,** 05.05.2022
+
 * added widget for automatic transcript summary,
 * slightly updated transcript interface,
 * added the ability to cancel an order in case of an error when switching from the file download to the payment page
