@@ -1,1 +1,0 @@
-We carried out technical work to improve the service. Now the service is working in the same mode. If you have problems accessing some pages during today, try pressing Ctrl+F5 on your keyboard to clear the cache.
