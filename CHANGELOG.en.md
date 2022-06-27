@@ -1,5 +1,11 @@
 Teamlogs – transcription and analysis of audio and video files
 
+### **Teamlogs 1.22,** 24.06.2022
+
+* Fixed problems with the appearance of spaces when editing the transcript
+* The step of rewinding audio using hotkeys has been changed – now it is 0.5 seconds
+* Improved the logic of highlighting words in the transcript when playing audio
+
 ### **Teamlogs 1.21 – Transcript 2.0,** 25.05.2022
 
 _The transcript editing module has been completely redesigned:_
