@@ -1,2 +1,0 @@
-We are experiencing problems with the work of Teamlogs in Safari browser. For the correct operation of the service on Mac OS, it is recommended to use the Chrome browser. In the near future, we will restore the correct operation of Safari.
-Thank you for using Teamlogs.
