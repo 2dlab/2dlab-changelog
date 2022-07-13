@@ -1,5 +1,13 @@
 Teamlogs – transcription and analysis of audio and video files
 
+### **Teamlogs 1.3,** 07.07.2022
+
+_Big update – speaker editing, new punctuation and numerals placement model_
+
+* Added speaker editing feature. Now you can change speakers for each replica, give speakers names, add and remove speakers
+* The punctuation placement model has been updated, which we have trained on data from open sources: news, Wikipedia, subtitles of shows and blogs. Now the model places punctuation marks almost like a person, knows how to put paragraphs, hyphens, dashes and quotes
+* The module for working with numerals has been updated. Fixed the problem when "one" was selected as "1-n", etc., in general, the logic of working with ordinal numerals was redesigned
+
 ### **Teamlogs 1.22,** 24.06.2022
 
 * Fixed problems with the appearance of spaces when editing the transcript
