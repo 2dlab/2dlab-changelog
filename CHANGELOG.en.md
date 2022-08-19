@@ -1,5 +1,10 @@
 Teamlogs – transcription and analysis of audio and video files
 
+### **Teamlogs 1.31,** 16.08.2022
+* The model of dividing text into speakers has been completely updated. Now the speakers' replicas are shared without capturing unnecessary phrases from the next speaker
+* Improved text quality thanks to the new speaker division
+* Optimized file processing – records are processed much faster
+
 ### **Teamlogs 1.3,** 07.07.2022
 
 _Big update – speaker editing, new punctuation and numerals placement model_
