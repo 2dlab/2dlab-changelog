@@ -1,5 +1,10 @@
 Teamlogs – transcription and analysis of audio and video files
 
+### **Teamlogs 1.4 — export to .xslx and transcript sharing,** 26.10.2022
+* Added export to .xlsx. The transcript is exported in a tabular format, divided into replicas, speakers and timings
+* Added the ability to share transcripts. Now you can open access to the transcript to another registered user. Just like in Google Docs
+* Fixed errors when editing the text of replicas
+
 ### **Teamlogs 1.31,** 16.08.2022
 * The model of dividing text into speakers has been completely updated. Now the speakers' replicas are shared without capturing unnecessary phrases from the next speaker
 * Improved text quality thanks to the new speaker division
