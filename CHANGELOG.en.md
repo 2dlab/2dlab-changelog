@@ -1,5 +1,16 @@
 Teamlogs – transcription and analysis of audio and video files
 
+### **Teamlogs 1.499 — Single account for organizations,** 24.03.2023
+
+**Organizations** <br>
+_We have added the ability to create a single billing account. Now you can:_
+
+* create your own organization inside Teamlogs,
+* invite users to the organization,
+* assign administrators among users,
+* pay for the processing of records from the general account of the organization,
+* transfer processed records to participants within the organization
+
 ### **Teamlogs 1.4 — export to .xslx and transcript sharing,** 26.10.2022
 * Added export to .xlsx. The transcript is exported in a tabular format, divided into replicas, speakers and timings
 * Added the ability to share transcripts. Now you can open access to the transcript to another registered user. Just like in Google Docs
