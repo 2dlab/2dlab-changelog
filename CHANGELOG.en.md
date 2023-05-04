@@ -1,5 +1,25 @@
 Teamlogs – transcription and analysis of audio and video files
 
+### **Teamlogs 1.5 — Improved English, autospickers, new file downloads and transcript updates,** 04.05.2023
+
+1. **English, new recognition model** <br>
+We have updated the English language recognition model, now English speech is recognized much better. <br>
+Processing time of an hour-long English-language recording is 7 minutes
+
+2. **Auto-detection of speakers** <br>
+When uploading recordings, you can now choose to automatically determine the number of speakers. <br>
+But you can still set the number of speakers manually
+
+3. **Accelerated file upload** <br>
+We have improved the upload algorithm, now files are loaded much faster
+
+
+4. <p style="margin-bottom: 3px"><strong>Transcript improvements:</strong></p>
+   * the operation of the Enter key has been improved, now it hits a paragraph where the text input cursor is. <br>
+   Enter – moves the text to the next line inside the replica, <br>
+   Ctrl + Enter – divides the replica into two by cursor position, 
+   * ability to merge adjacent replicas using Backspace at the beginning of the lower replica
+
 ### **Teamlogs 1.499 — Single account for organizations,** 24.03.2023
 
 **Organizations** <br>
