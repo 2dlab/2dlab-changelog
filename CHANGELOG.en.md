@@ -2,9 +2,9 @@ Teamlogs – transcription and analysis of audio and video files
 
 ### **Teamlogs 1.51 — Improved file loading,** 28.06.2023
 
-* we have improved the file download algorithm – fixed download errors with a slow or unstable Internet connection, accelerated file downloads, and also made it possible to resume file downloads when the connection is lost,
+* we have improved the file download algorithm – fixed download errors with slow or unstable internet connection, accelerated file downloads, and also made it possible to resume file downloads when the connection is lost,
 * added the ability to delete an audio file without deleting the entire transcript,
-* added analytics module for organizations,
+* added an expense analysis module for organizations,
 * minor changes have been made and errors in the work of the transcript editor have been corrected
 
 ### **Teamlogs 1.5 — Improved English, autospickers, new file downloads and transcript updates,** 04.05.2023
